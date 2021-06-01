@@ -2,10 +2,10 @@
  
 # Source Codes - Iqbal API
 <p align="center">
-<a href="#"><img title="Iqbal API" src="https://img.shields.io/badge/Zhirrr Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Iqbal API" src="https://img.shields.io/badge/Iqbal Api-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/miqbal-22"><img title="Author" src="https://img.shields.io/badge/Author-Zhirrr-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/miqbal-22"><img title="Author" src="https://img.shields.io/badge/Author-_miqbal.22-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align='center'>
    <a href="https://wa.me/6285745376798"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
